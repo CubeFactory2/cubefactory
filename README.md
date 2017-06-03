@@ -1,5 +1,5 @@
 # CubeFactory
 
-CubeFactory is...
+The CubeFactory is...
 
 > logo
