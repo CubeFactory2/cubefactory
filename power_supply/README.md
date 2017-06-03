@@ -1,2 +1,2 @@
 
-power supply description
+power supply readme
