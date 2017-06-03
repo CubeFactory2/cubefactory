@@ -1,1 +1,5 @@
-# cubefactory
+# CubeFactory
+
+CubeFactory is...
+
+> logo
