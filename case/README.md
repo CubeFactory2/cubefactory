@@ -1,2 +1,2 @@
 
-# readme for case
+case description
