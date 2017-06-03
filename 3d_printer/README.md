@@ -1,2 +1,2 @@
 
-readme for 3D-printer
+§D-printe rreadme
