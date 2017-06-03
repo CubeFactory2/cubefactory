@@ -1,2 +1,2 @@
 
-§D-printe rreadme
+3D-printer readme
