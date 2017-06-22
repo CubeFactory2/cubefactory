@@ -15,7 +15,7 @@ The repository contains all data and information needed to build the CubeFactory
 
 ## About
 
-The CubeFactory 2 is a self sustaining mini factory to apply sustainable value creation in areas with insufficient infrastructure. It was developed at the Apartment Assembly Technoligy and Factory Management of the Technische Universität Berlin.
+The CubeFactory 2 is a self sustaining mini factory to apply sustainable value creation in areas with insufficient infrastructure. It was developed at the Apartment for Assembly Technoligy and Factory Management of the Technische Universität Berlin.
 
 ![bild cf2](https://user-images.githubusercontent.com/28983580/27388247-3f9d4b84-569b-11e7-93f6-8e0f641c0413.jpg)
 
