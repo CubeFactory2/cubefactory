@@ -4,16 +4,16 @@ The repository contains all data and information needed to build the CubeFactory
 
 ---
 
-###Table of content
+### Table of content
 
-*[About] (#about)
-*[Components] (#components)
-*[Licence] (#licence)
-*[Links] (#links)
+*[About] (##about)
+*[Components] (##components)
+*[Licence] (##licence)
+*[Links] (##links)
 
 ---
 
-## 1.About
+## About
 
 The CubeFactory 2 is a self sustaining mini factory to apply sustainable value creation in areas with insufficient infrastructure. It was developed at the Apartment Assembly Technoligy and Factory Management of the Technische Universität Berlin.
 
@@ -31,7 +31,7 @@ In general, the CubeFactory 2 has the following purposes:
 
 ---
 
-## 2. Components
+## Components
 
 The CubeFactory 2 contains all necessary infrastructure for production. It consists of the following components:
 * Case
@@ -47,11 +47,11 @@ The energy supply can e.g. alternatively be realized by using portable wind powe
 
 ---
 
-## 3. Licence
+## Licence
 
 The CubeFactory 2 is licensed under the termes of the creative commons by sa.
 
 ---
 
-## 4. Links
+## Links
 * http://cubefactory.org/
