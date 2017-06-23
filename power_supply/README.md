@@ -10,7 +10,7 @@ In order to ensure the autonomous operation of the Cube Factory 2, it has a phot
  * photovoltaic generator
  * Battery storage system
  * Important parameters
- * [Equipment](#Equipment)
+ * [Equipment](#equipment)
  * Alternative approaches
  
 ---
