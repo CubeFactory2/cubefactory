@@ -2,7 +2,9 @@
 # Power Supply 
 
 In order to ensure the autonomous operation of the Cube Factory 2, it has a photovoltaic generator and a battery storage system. The following remarks will give you an overview of the most important facts on the subject
+
 ---
+
 ### Contents
 
  * photovoltaic generator
