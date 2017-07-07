@@ -7,10 +7,10 @@ The repository contains all data and information needed to build the CubeFactory
 ### Table of Contents
 
 * [About](#about)
-* Components
-* Contribute
-* License
-* Links
+* [Components](#components)
+* [Contribute](#Contribute)
+* [License](#License)
+* [Links](#Links)
 
 ---
 
