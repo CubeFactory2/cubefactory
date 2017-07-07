@@ -1,9 +1,9 @@
 This ist the Readme for the Recycling Unit.
 Work in Progress by karla.
-
+ 
 -------------------------------------------
 ## Dieses Verzeichnis
-+ hier kurze Einführung zum [Recycler](#Recycling-Unit)
++ hier kurze Einführung zum [Recycler] (#Recycling-Unit)
 + explodes views [here](images/exploded_view)
 + BOM [here](BOM)
 + [CAD files](CAD)
