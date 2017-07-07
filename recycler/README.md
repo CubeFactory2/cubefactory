@@ -2,7 +2,11 @@ This ist the Readme for the Recycling Unit.
 Work in Progress by karla.
 
 -------------------------------------------
-
+## Dieses Verzeichnis
++ hier kurze Einführung zum [Recycler](#Recycling-Unit)
++ explodes views [here](images/exploded_view)
++ BOM [here](BOM)
++ [CAD files](CAD)
 
 # Recycling Unit
 ![Anzeige von Bild aus parallelem Ordner](images/WeCycler_drawing.jpg)
@@ -46,8 +50,3 @@ Gewicht und geringem Stromverbrauch qualitativ gutes Filament zu erzeugen"
 ### Der verbaute Extruder 
 Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergruppe](images/Extruderbaugruppe.jpg)
 
-## Dieses Verzeichnis
-+ hier kurze Einführung zum Recycler
-+ explodes views [here](images/exploded_view)
-+ BOM [here](BOM)
-+ 
