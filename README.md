@@ -8,9 +8,9 @@ The repository contains all data and information needed to build the CubeFactory
 
 * [About](#about)
 * [Components](#components)
-* [Contribute](#Contribute)
-* [License](#License)
-* [Links](#Links)
+* [Contribute](#contribute)
+* [License](#license)
+* [Links](#links)
 
 ---
 
