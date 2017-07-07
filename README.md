@@ -63,4 +63,4 @@ Your ideas are welcome.
 ## Links
 * homepage: http://cubefactory.org/
 
-The project presented here is the CubeFactory 2. On the website, you will also find information on its previous version, the CubeFactory.
+The project shown here is the CubeFactory 2. On the website, you will also find information on its previous version, the CubeFactory.
