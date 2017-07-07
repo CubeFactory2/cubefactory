@@ -49,7 +49,7 @@ The energy supply can e.g. alternatively be realized by using portable wind powe
 
 ## Licence
 
-The CubeFactory 2 is licensed under the termes of the creative commons by sa.
+The CubeFactory 2 is licensed under the terms of CC-BY-SA-4.0.
 
 ---
 
