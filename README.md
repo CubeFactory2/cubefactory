@@ -1,21 +1,22 @@
 # CubeFactory 2
 
-The repository contains all data and information needed to build the CubeFactory 2.
+This repository contains all data and information needed to build the CubeFactory 2.
 
 ---
 
-### Table of content
+### Table of Contents
 
-* About
-* Components
-* Licence
-* Links
+* [About](#about)
+* [Components](#components)
+* [Contribute](#contribute)
+* [License](#license)
+* [Links](#links)
 
 ---
 
 ## About
 
-The CubeFactory 2 is a self sustaining mini factory to apply sustainable value creation in areas with insufficient infrastructure. It was developed at the Apartment for Assembly Technoligy and Factory Management of the Technische Universität Berlin.
+The CubeFactory 2 is a self sustaining mini factory to apply sustainable value creation in areas with insufficient infrastructure. It was developed at the Department for Assembly Technology and Factory Management of the Technische Universität Berlin.
 
 ![bild cf2](https://user-images.githubusercontent.com/28983580/27388247-3f9d4b84-569b-11e7-93f6-8e0f641c0413.jpg)
 
@@ -23,8 +24,8 @@ Especially in Emerging Countries there is a high demand for self-driven value cr
 The motivation is that communities affected by a low standard of living or disaster are able to control their situation by manufacturing essential life-saving and life-sustaining supplies by their own.
 
 In general, the CubeFactory 2 has the following purposes:
-*	mediation of a sustain value creation
-* production of 3D printed objects by operating with disposable resources to  create a sustain product
+* mediation of a sustain value creation
+* production of 3D printed objects by operating with disposable resources to create a sustain product
 * realization of closed loop material cycles
 * low-cost manufacturing of material and product
 * enabling small producers to access markets
@@ -35,23 +36,31 @@ In general, the CubeFactory 2 has the following purposes:
 
 The CubeFactory 2 contains all necessary infrastructure for production. It consists of the following components:
 * Case
-* PET Shredder and Extruder
-*	Foldable Solar Panels
+* Recycler, consisting of PET Shredder and Extruder
+* foldable solar panels
 * Accumulator
 * 3D FDM Printer
 
 ![bild cf2 detail](https://user-images.githubusercontent.com/28983580/27388276-5469657a-569b-11e7-8936-568ee5e50a62.png)
 
-There is a high flexibility in terms of selecting the particular components for the CubeFactory 2. We are open for any improvements or sugesstions.
-The energy supply can e.g. alternatively be realized by using portable wind power- or water power generators.
+---
+
+## Contribute
+
+Modify, alternate and improve the way the CubeFactory works.  
+There is a high flexibility in terms of selecting the particular components for the CubeFactory 2. For example, the power could alternatively be sourced from a car battery or generated through wind, water or nuclear fusion. While the 3D-printer is an independent open source project, the Recycler is an own development for the use in the CubeFactory and offers a lot of room for improvement.  
+Your ideas are welcome.
 
 ---
 
-## Licence
+## License
 
-The CubeFactory 2 is licensed under the termes of the creative commons by sa.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ---
 
 ## Links
-* http://cubefactory.org/
+* homepage: http://cubefactory.org/
+
+The project shown here is the CubeFactory 2. On the website, you will also find information on its previous version, the CubeFactory.
