@@ -40,6 +40,7 @@ The mentioned C-value indicates the factor of the battery charge quantity that i
 The Cube Factory's battery is designed to operate the 3D printer for about *t=8* hours. In order to determine the required charge quantity *Q* the power consumption *P* and the electricity consumption *i* of the 3D printer must be known. In the case of our printer *P = 100 W* and *I = 10 A* applies. Furthermore, a battery can only be discharged to a certain degree, since otherwise the electrodes will be damaged. For lithium systems, this maximum degree of discharge *e* is at about 90%. 
 With these values, the required charge quantity can be calculated and the following applies:
 ![formula|1](https://preview.ibb.co/bPVuCv/Ladungsmenge_1.png)
+
 With an existing capacity of 100 Ah the requirement is fulfilled.
 
 ---
