@@ -1,0 +1,6 @@
+WeCycler=Shreddergruppe+Extrudergruppe+Antriebsgruppe...
+Shreddergruppe=Schneidgruppe_neu+Antriebsgruppe
+Extrudergruppe=Extruder_DN15+...
+In jedem Ordner gibt es eine entsprechende Stückliste.
+
+Die CAD-Dateien von Gehäuse sind  nun nur als PDF-Datei zu zeigen.(ich will später weiter versuchen)
