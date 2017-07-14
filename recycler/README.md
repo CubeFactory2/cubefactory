@@ -9,9 +9,7 @@ Work in Progress by karla.
 + [CAD files](CAD)
 
 # Recycling Unit
-[STL Link](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe\Extrudergruppe.stl)
-
-[Link2](https://embed.github.com/view/3d/patmu04/cubefactory/blob/master/recycler/CAD/WeCycler/Extrudergruppe/Extrudergruppe_STL/Baugruppe/Extrudergruppe.STL)
+[STL Link](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe)
 
 ![Anzeige von Bild aus parallelem Ordner](images/WeCycler_drawing.jpg)
 
