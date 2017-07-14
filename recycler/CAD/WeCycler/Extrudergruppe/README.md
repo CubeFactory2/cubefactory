@@ -1,3 +1,3 @@
-![here](/Extrudergruppe_expl/Extrudergruppe.PNG)
+![here](Extrudergruppe_expl/Extrudergruppe.PNG)
 
-3D View (STL): [here](/Extrudergruppe_STL/Baugruppe)
+3D View (STL): [here](Extrudergruppe_STL/Baugruppe)
