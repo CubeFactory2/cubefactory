@@ -10,7 +10,7 @@ Key figures:
 
 In this repository, you will find the complete technical documentation produced in the development of the CubeFactory 2.
 
-### Table of Contents
+## Table of Contents
 
 * [About](#about)
 * [Components](#components)
