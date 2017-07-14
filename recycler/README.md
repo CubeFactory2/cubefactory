@@ -9,6 +9,8 @@ Work in Progress by karla.
 + [CAD files](CAD)
 
 # Recycling Unit
+![Anzeige von Bild aus parallelem Ordner](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe\Extrudergruppe.stl)
+
 ![Anzeige von Bild aus parallelem Ordner](images/WeCycler_drawing.jpg)
 
 * The Recycling unit of the cubefactory consists in two independent modules
