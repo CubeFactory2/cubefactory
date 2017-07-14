@@ -26,7 +26,7 @@ https://www.comprise.de/mk2a-heated-bed-kit/a-46306/
 https://www.comprise.de/druckbettfolie-buildtak-215-x-240-mm/a-32599/
 - Printer Bed Sheet BuildTak 225 x 254 mm: 21,90 €
 https://www.comprise.de/?ActionCall=WebActionArticleSearch&Params%5BSearchInDescription%5D=1&Params%5BSearchParam%5D=32511
-- ###### Total price: 613,60 €
+- ##### Total price: 613,60 €
 #### Downloads: 
 https://www.bq.com/de/support/hephestos/support-sheet
 
