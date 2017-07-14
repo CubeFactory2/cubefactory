@@ -45,9 +45,8 @@ The CubeFactory 2 contains all necessary infrastructure for production. It consi
 
 ## Contribute
 
-Modify, alternate and improve the way the CubeFactory works.  
+Feel free to build and develop futher the CubeFactory 2. Any improvement of the works documented here are welcomed.
 There is a high flexibility in terms of selecting the particular components for the CubeFactory 2. For example, the power could alternatively be sourced from a car battery or generated through wind, water or nuclear fusion. While the 3D-printer is an independent open source project, the Recycler is an own development for the use in the CubeFactory and offers a lot of room for improvement.  
-Your ideas are welcome.
 
 ## License
 
