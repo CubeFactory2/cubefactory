@@ -1,6 +1,14 @@
 # CubeFactory 2
 
-This repository contains all data and information needed to build the CubeFactory 2.
+The CubeFactory 2 is an autonomous and portable mini factory with own energy and material supply. It embeds three modules: a 3D-printer, a plastic recycler producing filaments for the 3D-printer for closed-loop material supply as well as photovoltaic panels and batteries for energy supply. It was developed at the [Department for Assembly Technology and Factory Management of the Technische Universität Berlin](http://www.mf.tu-berlin.de/) in the frame of the [Collaborative Research Center 1026 "Sustainable Manufacturing - Shaping Global Value Creation"](www.sustainable-manufacturing.net).
+
+Key figures:
+* weight:
+* dimensions:
+* autonomy: 
+
+
+In this repository, you will find the complete technical documentation produced in the development of the CubeFactory 2.
 
 ---
 
@@ -15,8 +23,6 @@ This repository contains all data and information needed to build the CubeFactor
 ---
 
 ## About
-
-The CubeFactory 2 is a self sustaining mini factory to apply sustainable value creation in areas with insufficient infrastructure. It was developed at the Department for Assembly Technology and Factory Management of the Technische Universität Berlin.
 
 ![bild cf2](https://user-images.githubusercontent.com/28983580/27388247-3f9d4b84-569b-11e7-93f6-8e0f641c0413.jpg)
 
