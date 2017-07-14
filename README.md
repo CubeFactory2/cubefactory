@@ -1,10 +1,16 @@
 # CubeFactory 2
 
-This repository contains all data and information needed to build the CubeFactory 2.
+The CubeFactory 2 is an autonomous and portable mini factory with own energy and material supply. It embeds three modules: a 3D-printer, a plastic recycler producing filaments for the 3D-printer for closed-loop material supply as well as photovoltaic panels and batteries for energy supply. It was developed at the [Department for Assembly Technology and Factory Management of the Technische Universität Berlin](http://www.mf.tu-berlin.de/) in the frame of the [Collaborative Research Center 1026 "Sustainable Manufacturing - Shaping Global Value Creation"](http://www.sustainable-manufacturing.net).
 
----
+Key figures:
+* weight:
+* dimensions:
+* autonomy: 
 
-### Table of Contents
+
+In this repository, you will find the complete technical documentation produced in the development of the CubeFactory 2.
+
+## Table of Contents
 
 * [About](#about)
 * [Components](#components)
@@ -12,11 +18,7 @@ This repository contains all data and information needed to build the CubeFactor
 * [License](#license)
 * [Links](#links)
 
----
-
 ## About
-
-The CubeFactory 2 is a self sustaining mini factory to apply sustainable value creation in areas with insufficient infrastructure. It was developed at the Department for Assembly Technology and Factory Management of the Technische Universität Berlin.
 
 ![bild cf2](https://user-images.githubusercontent.com/28983580/27388247-3f9d4b84-569b-11e7-93f6-8e0f641c0413.jpg)
 
@@ -30,8 +32,6 @@ In general, the CubeFactory 2 has the following purposes:
 * low-cost manufacturing of material and product
 * enabling small producers to access markets
 
----
-
 ## Components
 
 The CubeFactory 2 contains all necessary infrastructure for production. It consists of the following components:
@@ -43,24 +43,16 @@ The CubeFactory 2 contains all necessary infrastructure for production. It consi
 
 ![bild cf2 detail](https://user-images.githubusercontent.com/28983580/27388276-5469657a-569b-11e7-8936-568ee5e50a62.png)
 
----
-
 ## Contribute
 
-Modify, alternate and improve the way the CubeFactory works.  
+Feel free to build and develop futher the CubeFactory 2. Any improvement of the works documented here are welcomed.
 There is a high flexibility in terms of selecting the particular components for the CubeFactory 2. For example, the power could alternatively be sourced from a car battery or generated through wind, water or nuclear fusion. While the 3D-printer is an independent open source project, the Recycler is an own development for the use in the CubeFactory and offers a lot of room for improvement.  
-Your ideas are welcome.
-
----
 
 ## License
 
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
----
-
-## Links
-* homepage: http://cubefactory.org/
-
-The project shown here is the CubeFactory 2. On the website, you will also find information on its previous version, the CubeFactory.
+## More information
+* About the previous version of the CubeFactory as well as related projects such as the RecyclerBin: visit the [Cubefactory blog](http://cubefactory.org/).
+* About the underlying concept: see the publication ["Realization of a Learning Environment to Promote Sustainable Value Creation in Areas with Insufficient Infrastructure"](http://www.sciencedirect.com/science/article/pii/S2212827115005399) (CC BY-NC-ND 4.0)
+* About the results of the Collaborative Research Center "Sustainable Manufacturing - Shaping Global Value Creation": check the book ["Sustainable Manufacturing - Challenges, Solutions and Implementation Perspectives"](https://link.springer.com/book/10.1007/978-3-319-48514-0) (CC BY 4.0)
