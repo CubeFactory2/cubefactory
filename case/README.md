@@ -6,8 +6,8 @@
 
 ![Case|1](https://image.ibb.co/jKBLKa/GCSM_Pr_si_08.jpg)
 
-In order to protect the components of the Cube Factory 2 during transportation and extreme environmental influences, the components are placed in a case. The case therefore represents the system boundary of the Cube Factory 2. 
-A mandatory requirement of the Cube Factory 2 is the possibility of transportation by one person. The fulfillment of this requirement had to be realized by selecting a suitable case. For this purpose, the chosen model has rollers and a pull-out handle.
+In order to protect the components of the Cube Factory 2 during transportation and  from extreme environmental influences, the components are placed in a case. The case therefore represents the system boundary of the Cube Factory 2. 
+A mandatory requirement of the Cube Factory 2 is the possibility of transportation by one person. The fulfillment  of this requirement had to be realized by selecting a suitable case. For this purpose, the chosen model has rollers and a pull-out handle.
 
 ### Important parameters
 
