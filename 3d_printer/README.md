@@ -5,7 +5,7 @@ For the CubeFactory2 project an open source printer from RepRap was used. The de
 The Hephestos is a further development of the Prusa i3 by RepRap. It offers significant improvements and consists of a DIY (do it yourself) assembly set that is easier and more intuitive. Hephestos offers to create designs, prototypes, figures, accessories, models, etc.
 This model is characterized by its easy and convenient assembly. As a result, the individual steps were substantially simplified and the instructions were made more visual. The Hephestos is based 100% on free hardware and can be changed and further developed.
 
-Here are some facts about the 3D printer and links tot he shop, where you can buy it:
+Here are some facts about the 3D printer and links to the shop, where you can buy it:
 
 ### BQ – Prusa I3
   - Preasure range: 215 x 210 x 180 [mm]
