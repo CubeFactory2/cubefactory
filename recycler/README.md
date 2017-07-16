@@ -11,7 +11,9 @@ Work in Progress by karla.
 # Recycling Unit
 [STL Link](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe)
 
-![Anzeige von Bild aus parallelem Ordner](images/WeCycler_drawing.jpg)
+![Bild Zeichnung WeCycler](images/WeCycler_drawing.jpg)
+
+![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
 
 * The Recycling unit of the cubefactory consists in two independent modules
     * shredder 
