@@ -1,8 +1,8 @@
-###TODO (texting)
+### TODO (texting)
 + [x] Overview (hier kurze Einführung zum [Recycler] (#Recycling-Unit))
-+ [ ] Shredder
-	+ [ ] Shredder concept
-	+ [ ] Shredder realisation
++ [x] Shredder
+	+ [x] Shredder concept
+	+ [x] Shredder realisation
 + [ ] Extruder
 	+ [ ] Extruder concept
 	+ [ ] Extruder realisation
@@ -36,23 +36,36 @@
 
 + ![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
 ![Bild Zeichnung WeCycler](images/WeCycler_drawing.jpg)
-
++ __TODO__ bessere Abblidung (aus CAD? )
 
 ## Shredder <a name="Shredder"></a>
-### Ziel und Prinzip
-* mechanisches Zerkleinern von (sortenrein?) Material, Fehldrucke oder PET Flaschen
-* es entstehen Pellets
-* verschiedene Materialien möglich
-* verschiedene Zielgrößen der Pellets möglich
-* Konzept der Schneidmühle (cutting mill: (__TODO__ Bildquelle))![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)  
-### Der verbaute Shredder
-- solche infos:
-2500 RPM | Torque: 26.5 Nm | Chamber Size: 7.75" | Sample Volume: 50 - 1000g
+### goals and concept
+The Shredder aims to mechanically shred the input material into small, similar sized pieces.
 
-- alter wälzfräser
-- 
++ __input:__ 
+	+ different plastics (as long as they are sorted, clean and dry)
+	+ possible sources could be misprints or PET bottles
++ __output:__
+	+ smaller pieces (pellets)
+	+ pieces should hopefully be equally sized (to later get a more consistent filament)
+	+ maximum size can be limited via usage of filters
+	
++ the selected __principle__ is a cutting mill with a stator and a rotor both equipped with satic/rotating blades 
++ the shredder should be __adaptable__ to process different materials and deliver variable pellet sizes
+(__TODO__ Bildquelle, übersetzen))![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)
+
+
+### realization
++ picture shredder __TODO__ (erstellen aus STEP/SLDPRT)
++ the rotor is realized by a used (and damaged) hob cutter  (recycling!) 
++ picture hob cutter __TODO__ (aus masterarbeit)
++ To adapt to different materials, the speed (rpm) of the rotor is adjustable. Furthermore static blades can be moved to to change the distance between static and dynamic blades.
++ The output pellet size is determined by selection of a changeable filter (perforated plate)
++ __TODO__ solche infos finden :
+ 2500 RPM | Torque: 26.5 Nm | Chamber Size: 7.75" | Sample Volume: 50 - 1000g
+ 
 ## Extruder <a name="Extruder"></a>
-### Das Prinzip Extruder
+### goals and concept
 
 * Filament herstellen aus Pellets
 * Extruder heißt ... Druck, Temperatur
@@ -61,7 +74,7 @@
 * 
 (__TODO__ Bildquelle))![Extruder Prinzipskizze](images/Extruderschema.jpg)
 
-### Der verbaute Extruder 
+### realization 
 Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergruppe](images/Extruderbaugruppe.jpg)
 
 ### Powertrain <a name="Power"></a>
@@ -71,6 +84,7 @@ Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergrup
 +  BOM [here](BOM)
 +  [CAD files](CAD)
 
-###Links
+### Links
 https://www.3dhubs.com/talk/thread/which-shredding-and-extruding-machines-are-available-part-3
+
 https://www.3dhubs.com/talk/thread/how-does-local-recycling-work-part-2
