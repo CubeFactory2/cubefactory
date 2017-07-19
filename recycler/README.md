@@ -1,38 +1,44 @@
-This ist the Readme for the Recycling Unit.
-Work in Progress by karla.
+###TODO (texting)
++ [x] Overview (hier kurze Einführung zum [Recycler] (#Recycling-Unit))
++ [ ] Shredder
+	+ [ ] Shredder concept
+	+ [ ] Shredder realisation
++ [ ] Extruder
+	+ [ ] Extruder concept
+	+ [ ] Extruder realisation
++ [ ] powertrain (>Ali)
+
  
 -------------------------------------------
-## Dieses Verzeichnis
-+ [x] hier kurze Einführung zum [Recycler] (#Recycling-Unit)
-+ [x] explodes views [here](images/exploded_view)
-+ [ ] BOM [here](BOM)
-+ [ ] [CAD files](CAD)
+
 
 # Recycling Unit
-[STL Link](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe)
+## Overview
 
+ The recycling unit of the _cubefactory 2_ is able to produce filament for the 3d printer. In a two-step process plastic waste is shred into little pieces and then transformed into filament.
+
++ __input:__ waste from 3d printing or other plasic e.g. from plastic bags or plastic bottles (just a single type of material)
+
++ __output:__ filament that can be (spooled an then) used for FDM 3d printing 
+
++ two-step __process__ realized by two independent __modules__: 
+	1. shredding the material into small pieces ([shredder](#Shredder)) 
+	2. extruding the filament ([extruder](#Extruder))
+
++ the [powertrain](#Power) module can be attached to either the shredder or the extruder with the purpose of saving weight and costs
+
++ Special requirements for the recycler to be used in the _Cubefactory 2_:
+	+ to be compact (small package)
+	+ to be lightweight
+	+ low power consuption 
+
++ hierarchy and drawing of the realized construction (3d view [here](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe)):
+
++ ![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
 ![Bild Zeichnung WeCycler](images/WeCycler_drawing.jpg)
 
 
-* The Recycling unit of the cubefactory consists of two independent modules and a comparted drivetrain unit. 
-* ![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
-
-    * shredder 
-    * extruder
-* Ziel: "Kunststoffteile beziehungsweise -abfälle
-insoweit zu verarbeiten, dass am Ende des zweistufigen Prozesses Filament für die
-(erneute) Verwendung in 3D-Druckern zur Verfügung steht"
-* "Ausgangsmaterial für das
-Recycling kann dabei jede Art von thermoplastischem Kunststoff sein, der lokal zur
-Verfügung steht. Denkbar sind als Ausgangsmaterial neben Fehldrucken aus
-vorangegangenen 3D-Drucken auch andere Plastikabfälle wie PET-Flaschen oder
-Plastiktüten"
-* Zielprodukt: Filamentfaden als ausgangsmaterial für Weiterverarbeitung mit FDM 3d Drucker.
-* Besondere Anforderungen für Cubefactory: "Herausforderung ist es, für den sehr begrenzten Bauraum in
-der CubeFactory 2 eine kompakte Lösung zu finden, die es ermöglicht, bei geringem
-Gewicht und geringem Stromverbrauch qualitativ gutes Filament zu erzeugen"
-
-## Shredder
+## Shredder <a name="Shredder"></a>
 ### Ziel und Prinzip
 * mechanisches Zerkleinern von (sortenrein?) Material, Fehldrucke oder PET Flaschen
 * es entstehen Pellets
@@ -42,9 +48,10 @@ Gewicht und geringem Stromverbrauch qualitativ gutes Filament zu erzeugen"
 ### Der verbaute Shredder
 - solche infos:
 2500 RPM | Torque: 26.5 Nm | Chamber Size: 7.75" | Sample Volume: 50 - 1000g
+
 - alter wälzfräser
 - 
-## Extruder
+## Extruder <a name="Extruder"></a>
 ### Das Prinzip Extruder
 
 * Filament herstellen aus Pellets
@@ -57,5 +64,13 @@ Gewicht und geringem Stromverbrauch qualitativ gutes Filament zu erzeugen"
 ### Der verbaute Extruder 
 Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergruppe](images/Extruderbaugruppe.jpg)
 
+### Powertrain <a name="Power"></a>
+
+### Dieses Verzeichnis
++  explodes views [here](images/exploded_view)
++  BOM [here](BOM)
++  [CAD files](CAD)
+
 ###Links
 https://www.3dhubs.com/talk/thread/which-shredding-and-extruding-machines-are-available-part-3
+https://www.3dhubs.com/talk/thread/how-does-local-recycling-work-part-2
