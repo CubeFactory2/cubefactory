@@ -3,19 +3,20 @@ Work in Progress by karla.
  
 -------------------------------------------
 ## Dieses Verzeichnis
-+ hier kurze Einführung zum [Recycler] (#Recycling-Unit)
-+ explodes views [here](images/exploded_view)
-+ BOM [here](BOM)
-+ [CAD files](CAD)
++ [x] hier kurze Einführung zum [Recycler] (#Recycling-Unit)
++ [x] explodes views [here](images/exploded_view)
++ [ ] BOM [here](BOM)
++ [ ] [CAD files](CAD)
 
 # Recycling Unit
 [STL Link](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe)
 
 ![Bild Zeichnung WeCycler](images/WeCycler_drawing.jpg)
 
-![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
 
-* The Recycling unit of the cubefactory consists in two independent modules
+* The Recycling unit of the cubefactory consists of two independent modules and a comparted drivetrain unit. 
+* ![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
+
     * shredder 
     * extruder
 * Ziel: "Kunststoffteile beziehungsweise -abfälle
@@ -37,10 +38,12 @@ Gewicht und geringem Stromverbrauch qualitativ gutes Filament zu erzeugen"
 * es entstehen Pellets
 * verschiedene Materialien möglich
 * verschiedene Zielgrößen der Pellets möglich
-* Konzept der Schneidmühle: (__TODO__ Bildquelle))![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)  
+* Konzept der Schneidmühle (cutting mill: (__TODO__ Bildquelle))![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)  
 ### Der verbaute Shredder
-
-
+- solche infos:
+2500 RPM | Torque: 26.5 Nm | Chamber Size: 7.75" | Sample Volume: 50 - 1000g
+- alter wälzfräser
+- 
 ## Extruder
 ### Das Prinzip Extruder
 
@@ -54,3 +57,5 @@ Gewicht und geringem Stromverbrauch qualitativ gutes Filament zu erzeugen"
 ### Der verbaute Extruder 
 Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergruppe](images/Extruderbaugruppe.jpg)
 
+###Links
+https://www.3dhubs.com/talk/thread/which-shredding-and-extruding-machines-are-available-part-3
