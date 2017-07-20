@@ -59,24 +59,38 @@ The Shredder aims to mechanically shred the input material into small, similar s
 + picture shredder __TODO__ (erstellen aus STEP/SLDPRT)
 + the rotor is realized by a used (and damaged) hob cutter  (recycling!) 
 + picture hob cutter __TODO__ (aus masterarbeit)
++ the other parts are special components that have been manufactured for the WeCycler
 + To adapt to different materials, the speed (rpm) of the rotor is adjustable. Furthermore static blades can be moved to to change the distance between static and dynamic blades.
 + The output pellet size is determined by selection of a changeable filter (perforated plate)
 + __TODO__ solche infos finden :
  2500 RPM | Torque: 26.5 Nm | Chamber Size: 7.75" | Sample Volume: 50 - 1000g
++ more detailed information about the realized shredder [here](Shredder_Info.md)
  
 ## Extruder <a name="Extruder"></a>
 ### goals and concept
 
-* Filament herstellen aus Pellets
-* Extruder heißt ... Druck, Temperatur
-* Pellets könnten auch einfach gekauft sein (billiger als gekauftes Filament)
-* 3-Zonen-Extruderschnecke mit kernprogressivem Verlauf, Thermalbarriere
-* 
+"The shredded material or the pellets are fed into a ‘hopper’ which is basically the mouth of the machine. Then they fall into a screw that spins them forward and passes the material past heating elements which melt the plastic. After the plastic is sufficiently melted it is pressed through a nozzle that, if all goes well, presses it out into a perfect string of filament. "
+
++ __input:__ pellets or shredded material (equally small sized and just one type of material)
++ __output:__ filament
++  the extruder __process:__ [(explanation video)](https://www.youtube.com/watch?v=WaB-dsB1Kfk)
+
+	1. feeding the material into a hopper
+	2. the pellets are moved through a tube by a spinning screw
+	3. the plasic melts due to the use heating elements along the tube an the pressure resulting from decreasing distance between screw and tube
+	4. finally the meltet material is pressed trough a nozzle, forming a string of filament
+	 
++ the extruder should be __adaptable__ to process different materials and pellet sizes. Also the diameter of the filament should be variable.
++  
 (__TODO__ Bildquelle))![Extruder Prinzipskizze](images/Extruderschema.jpg)
 
 ### realization 
 Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergruppe](images/Extruderbaugruppe.jpg)
 
++ 3-Zonen-Extruderschnecke mit kernprogressivem Verlauf, Thermalbarriere
+
++ more detailed information on the single parts of realized extruder [here](Extruder_Info.md)
+ 
 ### Powertrain <a name="Power"></a>
 
 ### Dieses Verzeichnis
