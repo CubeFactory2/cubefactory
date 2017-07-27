@@ -11,6 +11,7 @@ In order to ensure the autonomous operation of the Cube Factory 2, it has a phot
  * [Battery storage system](#battery-storage-system)
  * [Important parameters](#important-parameters)
  * [Equipment](#equipment)
+ * [Cost overview](#cost-overview)
  * [Alternative approaches](#alternative-approaches)
  
 ---
@@ -98,6 +99,26 @@ In order to be able to charge the battery by alternating current via the mains, 
 
 ![N|Kurve2](https://preview.ibb.co/fazYXv/Schaltung_Power_Supply_TU0317a_Kopie.png)
 
+
+---
+
+### Cost overview
+
+Noch eine schöne Tabelle ...
+
+|Menge | Bezeichnung | E Preis in Euro| G Preis in Euro|
+|:----| :----  | -----: |  ------:|
+| 3 | Solargenerator | 260 | 780 |
+| 1 | Lithiumbatterie | 720 | 720 |
+| 1 | DC/DC-Wandler | 80 | 80 |  
+| 1 | MPPT/ Laderegler | 170 | 170 |
+| 1 | MPPT-control | 72 | 72 |
+| 1 | Netzladegerät | 120 (??) | 120 (??) |
+| 1 | Verbindungskabel MPPT | 13.50 | 13.50 | 
+| 1 | 8m 6mm² Profi-Verbindungskabel | 33.53 | 33.53 |
+| 2 | MC4 Abzweigbuchsen | 8.40 | 16.80 | 
+|4 | 1m 6mm² MC-4-Verbindungskabel | 9,01 | 36.04 | 
+|| **Summe** |  |  **2041.87**|
 
 ---
 
