@@ -30,7 +30,7 @@ https://www.comprise.de/?ActionCall=WebActionArticleSearch&Params%5BSearchInDesc
 #### Downloads: 
 https://www.bq.com/de/support/hephestos/support-sheet
 
-For those, who doesn’t have restrictions on the printer size and price, or just want to have a look into the original hardware, here are the links:
+For those, who don’t have restrictions on the printer size and price, or just want to have a look into the original hardware, here are the links:
 
 - Prusa i3 – published under GPL v3 - first version: https://github.com/josefprusa/Prusa3-vanilla 
 - Prusa i3 MK2S 3D Printer – new Version: https://github.com/prusa3d/Original-Prusa-i3 
