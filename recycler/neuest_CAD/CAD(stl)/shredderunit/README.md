@@ -2,4 +2,4 @@
 
 [3D View Explosion (STL)](01_00_00-shredderunit(explosion).STL)
 
-![here](../../Explosionsdarstellungen/01_00_00-shredderunit(explosion).png)
+![here](../../exploded_views/01_00_00-shredderunit(explosion).png)
