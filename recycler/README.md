@@ -94,7 +94,7 @@ Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergrup
 ### Powertrain <a name="Power"></a>
 
 ### Dieses Verzeichnis
-+  explodes views [here](images/exploded_view)
++  explodes views [here](CAD/exploded_views)
 +  BOM [here](BOM)
 +  [CAD files](CAD)
 
