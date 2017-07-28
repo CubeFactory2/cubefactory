@@ -28,4 +28,6 @@ Maxon Motor AG´s  ESCON 70/10 is used as engine controller. This controller ena
 ## Temperature control
   The temperature setting and its supervision is carried out by a temperature controller from the company Inkbird called „D1S-2R-24“ which has an operating voltage of 24 volts DC. The target temperature can be adjusted and the actual temperature can be supervised by the display.
   
-## electronics
+## Electric Circuit
+  For a better Understanding oft the Electric circuit two views can be used.
+Wheras the first view shows the circuit oft the electronics, the second diagram supports the visual components for the motor controller.
