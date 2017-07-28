@@ -1,6 +1,6 @@
 # Motor, heater and electronics
 ## Motor
-  The Cubefactory 2 uses a dc motor called „RS Pro brushless direct currentmotor. The new engine was selected based on calculations and general demands regarding mass and installation space.
+  The Cubefactory 2 uses a dc motor called „RS Pro brushless dc motor". The new engine was selected based on calculations and general demands regarding mass and installation space.
   
 ???Thereby a minimum requirement of 0,88 Nm was determined fort he forque to punch and cut ABS and PLA plastics.
 2.544 N/Min with rotary energy of 167W/2Nm without gearing mechanism
@@ -16,7 +16,7 @@ Characteristic values:
 + maximum speed: 3500 1/minute
 
 ## Planetery gear
-  For the gear reduction of the powertrain a planetary gear (I=10:1) is used to lower the speed and reduce the shear strength of the synthetic material simultaneously. An experiment proofed that the shear strength of the two synthetic materials ABS and PLA sinks at a lower speed and therefore less cutting force for the shreddingprocess of the synthetic material is required.
+  For the gear reduction of the powertrain a planetary gear (i=10:1) is used to lower the speed and reduce the shear strength of the synthetic material simultaneously. An experiment proofed that the shear strength of the two synthetic materials ABS and PLA sinks at a lower speed and therefore less cutting force for the shreddingprocess of the synthetic material is required.
 
 ## Motor controller
   Brushless DC motors such as being built in this Recycler, work on the functional principle of a three-phase synchronous motor. The engine is set in motion by excitation from permanent magnets. Besides, voltage is used to generate a rotary magnetic field in the stator and to drive the engine. Therefore the engine can be steered via voltage coming from a motor controller. This kind of controller switches the voltage to the single windings and varies the speed of the engine, in the simplest case depending on the DC voltage at the input.
