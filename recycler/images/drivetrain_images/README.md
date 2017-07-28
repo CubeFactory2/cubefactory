@@ -1,0 +1,1 @@
+put here images (and equations) for the drivetrain readme
