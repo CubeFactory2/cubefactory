@@ -2,9 +2,9 @@
 ## Motor
   The Cubefactory 2 uses a dc motor called „RS Pro brushless direct currentmotor. The new engine was selected based on calculations and general demands regarding mass and installation space.
   
-Thereby a minimum requirement of 0,88 Nm was determined fort he forque to punch and cut ABS and PLA plastics.
+???Thereby a minimum requirement of 0,88 Nm was determined fort he forque to punch and cut ABS and PLA plastics.
 2.544 N/Min with rotary energy of 167W/2Nm without gearing mechanism
-0,08 Nm with gearing mechanism
+0,08 Nm with gearing mechanism???
 
 Characteristic values:
 + voltage: 24 volt (dc)
@@ -31,3 +31,8 @@ Maxon Motor AG´s  ESCON 70/10 is used as engine controller. This controller ena
 ## Electric Circuit
   For a better Understanding oft the Electric circuit two views can be used.
 Wheras the first view shows the circuit oft the electronics, the second diagram supports the visual components for the motor controller.
+
+additional
+To operate the electical components a control panel is provided. Two switches to turn on the motor and the heater sleeve are built in behind a fuse. Also shored in is a switch for controlling the direction of rotation as well as a potentiometer in order to regulate the engine speed. Two LED Lights signal that the machines are working.
+The supply oft he operaring voltage is secured by Batteries from CubeFactory2 which are protected against mistakes. The tension supply of the heater sleeve is caused by a switch on the controlller. A second switch operates the motor control which is connected to the motor with two cables. Three more cables connect to the hallsensors at the motor, for monitoring and regulation of the angular position. One outlet of the controller provides 5 voltage. This tension is used for regulation. A potentiometer is used to grip the tension to adjust the setting of rotation speed and is affiliated to an analog inbound.
+The direction of rotation can be adjusted by a switch with three positions whilst two digital inbounds for either the release or the direction of rotation with each 0 or 5 Volt are being connected. The elected set-up ensures that the middle position of the switch interrupts the release and stops the motor. For the security of the motor we advice to await the shutdown oft he motor in between changing the direction of rotation.
