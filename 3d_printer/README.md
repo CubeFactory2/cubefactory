@@ -16,7 +16,7 @@ Here are some facts about the 3D printer and links to the shop, where you can bu
   - License: Creative Commons – Attribution – Share Alike
   - GitHub: https://github.com/bq/prusa-i3-hephestos 
 
-#### Shops and Prices:
+#### Shops and prices:
 - 3d printer: 549,90 €
 https://www.bq.com/de/hephestos-prusa
 https://www.comprise.de/3d-drucker-bq-hephestos/a-33169/
