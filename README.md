@@ -10,13 +10,13 @@ Key figures:
 
 In this repository, you will find the complete technical documentation produced in the development of the CubeFactory 2.
 
-## Table of Contents
+## Table of contents
 
 * [About](#about)
 * [Components](#components)
 * [Contribute](#contribute)
 * [License](#license)
-* [Links](#links)
+* [More information](#more-information)
 
 ## About
 
@@ -45,7 +45,7 @@ The CubeFactory 2 contains all necessary infrastructure for production. It consi
 
 ## Contribute
 
-Feel free to build and develop futher the CubeFactory 2. Any improvement of the works documented here are welcomed.
+Feel free to build and develop futher the CubeFactory 2. Any improvements of the work documented here are welcome.
 There is a high flexibility in terms of selecting the particular components for the CubeFactory 2. For example, the power could alternatively be sourced from a car battery or generated through wind, water or nuclear fusion. While the 3D-printer is an independent open source project, the Recycler is an own development for the use in the CubeFactory and offers a lot of room for improvement.  
 
 ## License
