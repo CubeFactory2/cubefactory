@@ -3,9 +3,9 @@
 The CubeFactory 2 is an autonomous and portable mini factory with own energy and material supply. It embeds three modules: a 3D-printer, a plastic recycler producing filaments for the 3D-printer for closed-loop material supply as well as photovoltaic panels and batteries for energy supply. It was developed at the [Department for Assembly Technology and Factory Management of the Technische Universität Berlin](http://www.mf.tu-berlin.de/) in the frame of the [Collaborative Research Center 1026 "Sustainable Manufacturing - Shaping Global Value Creation"](http://www.sustainable-manufacturing.net).
 
 Key figures:
-* weight:
-* dimensions:
-* autonomy: 
+* Weight:
+* Dimensions:
+* Autonomy: 
 
 
 In this repository, you will find the complete technical documentation produced in the development of the CubeFactory 2.
@@ -26,18 +26,18 @@ Especially in Emerging Countries there is a high demand for self-driven value cr
 The motivation is that communities affected by a low standard of living or disaster are able to control their situation by manufacturing essential life-saving and life-sustaining supplies by their own.
 
 In general, the CubeFactory 2 has the following purposes:
-* mediation of a sustain value creation
-* production of 3D printed objects by operating with disposable resources to create a sustain product
-* realization of closed loop material cycles
-* low-cost manufacturing of material and product
-* enabling small producers to access markets
+* Mediation of a sustain value creation
+* Production of 3D printed objects by operating with disposable resources to create a sustain product
+* Realization of closed loop material cycles
+* Low-cost manufacturing of material and product
+* Enabling small producers to access markets
 
 ## Components
 
 The CubeFactory 2 contains all necessary infrastructure for production. It consists of the following components:
 * Case
 * Recycler, consisting of PET Shredder and Extruder
-* foldable solar panels
+* Foldable solar panels
 * Accumulator
 * 3D FDM Printer
 
