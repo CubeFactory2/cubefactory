@@ -1,6 +1,6 @@
 # CubeFactory 2
 
-The CubeFactory 2 is an autonomous and portable mini factory with own energy and material supply. It embeds three modules: a 3D-printer, a plastic recycler producing filaments for the 3D-printer for closed-loop material supply as well as photovoltaic panels and batteries for energy supply. It was developed at the [Department for Assembly Technology and Factory Management of the Technische Universität Berlin](http://www.mf.tu-berlin.de/) in the frame of the [Collaborative Research Center 1026 "Sustainable Manufacturing - Shaping Global Value Creation"](http://www.sustainable-manufacturing.net).
+The CubeFactory 2 is an autonomous and portable mini factory with own energy and material supply. It embeds three modules: a 3D-printer, a plastic recycler producing filament for the 3D-printer for closed-loop material supply as well as photovoltaic panels and batteries for energy supply. It was developed at the [Department for Assembly Technology and Factory Management of the Technische Universität Berlin](http://www.mf.tu-berlin.de/) in the frame of the [Collaborative Research Center 1026 "Sustainable Manufacturing - Shaping Global Value Creation"](http://www.sustainable-manufacturing.net).
 
 Key figures:
 * Weight:
