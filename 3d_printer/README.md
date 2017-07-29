@@ -8,8 +8,8 @@ This model is characterized by its easy and convenient assembly. As a result, th
 Here are some facts about the 3D printer and links to the shop, where you can buy it:
 
 ### BQ – Prusa I3
-  - Preasure range: 215 x 210 x 180 [mm]
-  - Outer dimensions: 460 x 383 x 430 [mm]
+  - Print volume: 215 x 210 x 180 mm
+  - Outer dimensions: 460 x 383 x 430 mm
   - Performance: 100 W
   - Weight: 9,7 kg
   - Price: 549,9 €
@@ -30,7 +30,7 @@ https://www.comprise.de/?ActionCall=WebActionArticleSearch&Params%5BSearchInDesc
 #### Downloads: 
 https://www.bq.com/de/support/hephestos/support-sheet
 
-For those, who don’t have restrictions on the printer size and price, or just want to have a look into the original hardware, here are the links:
+For those, who don’t have restrictions on the printer size and price, or just want to have a look at the original hardware, here are the links:
 
 - Prusa i3 – published under GPL v3 - first version: https://github.com/josefprusa/Prusa3-vanilla 
 - Prusa i3 MK2S 3D Printer – new Version: https://github.com/prusa3d/Original-Prusa-i3 
