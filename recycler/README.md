@@ -32,11 +32,10 @@
 	+ to be lightweight
 	+ low power consuption 
 
-+ hierarchy and drawing of the realized construction (3d view [here](CAD\WeCycler\Extrudergruppe\Extrudergruppe_STL\Baugruppe)):
++ hierarchy and drawing of the realized construction (3d view [here](CAD/CAD(stl)/00_00_00-wecycler.STL)):
 
-+ ![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
-![Bild Zeichnung WeCycler](images/WeCycler_drawing.jpg)
-+ __TODO__ bessere Abblidung (aus CAD? )
+ ![Overview Structure of Repo and Construction](images/WeCycler_structure.png)
+![Bild Zeichnung WeCycler](images/wecycler_foto.jpg)
 
 ## Shredder <a name="Shredder"></a>
 ### goals and concept
