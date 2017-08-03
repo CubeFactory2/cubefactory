@@ -1,21 +1,7 @@
-### TODO (texting)
-+ [x] Overview (hier kurze Einführung zum [Recycler] (#Recycling-Unit))
-+ [x] Shredder
-	+ [x] Shredder concept
-	+ [x] Shredder realisation
-+ [ ] Extruder
-	+ [ ] Extruder concept
-	+ [ ] Extruder realisation
-+ [ ] powertrain (>Ali)
-
- 
--------------------------------------------
-
-
-# Recycling Unit
+# Recycling unit
 ## Overview
 
- The recycling unit of the _cubefactory 2_ is able to produce filament for the 3d printer. In a two-step process plastic waste is shred into little pieces and then transformed into filament.
+ The recycling unit of the cubefactory 2 is able to produce filament for the 3d printer. In a two-step process plastic waste is shred into little pieces and then transformed into filament.
 
 + __input:__ waste from 3d printing or other plasic e.g. from plastic bags or plastic bottles (just a single type of material)
 
@@ -27,7 +13,7 @@
 
 + the [powertrain](#Power) module can be attached to either the shredder or the extruder with the purpose of saving weight and costs
 
-+ Special requirements for the recycler to be used in the _Cubefactory 2_:
++ Special requirements for the recycler to be used in the cubefactory 2:
 	+ to be compact (small package)
 	+ to be lightweight
 	+ low power consuption 
@@ -38,7 +24,7 @@
 ![Bild Zeichnung WeCycler](images/wecycler_foto.jpg)
 
 ## Shredder <a name="Shredder"></a>
-### goals and concept
+### Goals and concept
 The Shredder aims to mechanically shred the input material into small, similar sized pieces.
 
 + __input:__ 
@@ -54,7 +40,7 @@ The Shredder aims to mechanically shred the input material into small, similar s
 (__TODO__ Bildquelle, übersetzen))![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)
 
 
-### realization
+### Realization
 + picture shredder __TODO__ (erstellen aus STEP/SLDPRT)
 + the rotor is realized by a used (and damaged) hob cutter  (recycling!) 
 + picture hob cutter __TODO__ (aus masterarbeit)
@@ -66,7 +52,7 @@ The Shredder aims to mechanically shred the input material into small, similar s
 + more detailed information about the realized shredder [here](Shredder_Info.md)
  
 ## Extruder <a name="Extruder"></a>
-### goals and concept
+### Goals and concept
 
 "The shredded material or the pellets are fed into a ‘hopper’ which is basically the mouth of the machine. Then they fall into a screw that spins them forward and passes the material past heating elements which melt the plastic. After the plastic is sufficiently melted it is pressed through a nozzle that, if all goes well, presses it out into a perfect string of filament. "
 
@@ -83,15 +69,17 @@ The Shredder aims to mechanically shred the input material into small, similar s
 +  
 (__TODO__ Bildquelle))![Extruder Prinzipskizze](images/Extruderschema.jpg)
 
-### realization 
+### Realization 
 Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergruppe](images/Extruderbaugruppe.jpg)
 
 + 3-Zonen-Extruderschnecke mit kernprogressivem Verlauf, Thermalbarriere
 
-+ more detailed information on the single parts of realized extruder [here](Extruder_Info.md)
++ more detailed information on the single parts of the realized extruder unit [here](Extruder_Info.md)
  
 ### Powertrain <a name="Power"></a>
-
++ For more information on the powertrain unit see [here](Powertrain_Info.md).
++ The powertrain can be attached in 2 different positions: either it drives the the shredder or the extruder.
++ __TODO__ Bild mit zwei Montagevarianten einfügen
 ### Dieses Verzeichnis
 +  explodes views [here](CAD/exploded_views)
 +  BOM [here](BOM)
