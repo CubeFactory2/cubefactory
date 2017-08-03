@@ -1,5 +1,5 @@
-[3D View Assembly (STL)](01_01_00-drivetrainunit.STL)
+[3D View Assembly (STL)](01_01_00-drivetrain_unit.STL)
 
-[3D View Explosion (STL)](01_01_00-drivetrainunit(explosion).STL)
+[3D View Explosion (STL)](01_01_00-drivetrain_unit(explosion).STL)
 
-![here](../../../exploded_views/01_01_00-drivetrainunit(explosion).png)
+![here](../../../exploded_views/01_01_00-drivetrain_unit(explosion).png)
