@@ -62,12 +62,10 @@ The extruder produces filament from pellets using pressure and heat.
 	 
 + the extruder should be __adaptable__ to process different materials and pellet sizes. Also the diameter of the filament should be variable.
 +  
-(__TODO__ Bildquelle))![Extruder Prinzipskizze](images/Extruderschema.jpg)
+(__TODO__ Bildquelle))![Extruder Prinzipskizze](images/Extruderschema2.jpg)
 
 ### Realization 
-Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergruppe](images/Extruderbaugruppe.jpg)
-
-+ 3-Zonen-Extruderschnecke mit kernprogressivem Verlauf, Thermalbarriere
+(__TODO__ Bildquelle, Beschriftung der Einzelteile?))![Extrudergruppe](images/Extruderbaugruppe.jpg)
 
 + more detailed information on the single parts of the realized extruder unit [here](Extruder_Info.md)
  
