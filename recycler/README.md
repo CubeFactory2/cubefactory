@@ -35,26 +35,21 @@ The Shredder aims to mechanically shred the input material into small, similar s
 	+ pieces should hopefully be equally sized (to later get a more consistent filament)
 	+ maximum size can be limited via usage of filters
 	
-+ the selected __principle__ is a cutting mill with a stator and a rotor both equipped with satic/rotating blades 
++ the selected __principle__ is a cutting mill with a stator and a rotor both equipped with static/ rotating blades 
 + the shredder should be __adaptable__ to process different materials and deliver variable pellet sizes
-(__TODO__ Bildquelle, übersetzen))![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)
-
++ ![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)
 
 ### Realization
-+ ![shredder](images/shredder.png)
++ ![shredder](images/shredder2.png)
 + the rotor is realized by a used (and damaged) milling cutter  (recycling!) 
-+ picture milling cutter __TODO__ (aus masterarbeit)
 + the other parts are special components that have been manufactured for the WeCycler
 + To adapt to different materials, the speed (rpm) of the rotor is adjustable. Furthermore static blades can be moved to to change the distance between static and dynamic blades.
 + The output pellet size is determined by selection of a changeable filter (perforated plate)
-+ __TODO__ solche infos finden :
- 2500 RPM | Torque: 26.5 Nm | Chamber Size: 7.75" | Sample Volume: 50 - 1000g
 + more detailed information about the realized shredder [here](Shredder_Info.md)
  
 ## Extruder <a name="Extruder"></a>
 ### Goals and concept
-
-"The shredded material or the pellets are fed into a ‘hopper’ which is basically the mouth of the machine. Then they fall into a screw that spins them forward and passes the material past heating elements which melt the plastic. After the plastic is sufficiently melted it is pressed through a nozzle that, if all goes well, presses it out into a perfect string of filament. "
+The extruder produces filament from pellets using pressure and heat.
 
 + __input:__ pellets or shredded material (equally small sized and just one type of material)
 + __output:__ filament
@@ -81,8 +76,8 @@ Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergrup
 + The powertrain can be attached in 2 different positions: either it drives the the shredder (pink) or the extruder (green). This is due to the need of saving money, space and weight.
 
 + ![positions](images/powertrain_positions.jpg)
-### Dieses Verzeichnis
-+  explodes views [here](CAD/exploded_views)
+### This Repository
++  exploded views [here](CAD/exploded_views)
 +  BOM [here](BOM)
 +  [CAD files](CAD)
 
