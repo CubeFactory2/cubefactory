@@ -42,7 +42,7 @@ Maxon Motor AG´s  ESCON 70/10 is used as engine controller. This controller ena
 
 ## Electric circuit
   For a better understanding oft the electric circuit two views can be used.
-Whereas the first view shows the circuit oft the electronics, the second diagram supports the visual components for the motor controller.
+Whereas the first view shows the circuit oft the electronics, the second diagram supports the visual components for the motor controller. 
 
 ![Electric circuit 1](images/powertrain_images/Schaltplan.png)
 
