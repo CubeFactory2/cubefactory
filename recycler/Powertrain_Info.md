@@ -6,6 +6,8 @@
 2.544 N/Min with rotary energy of 167W/2Nm without gearing mechanism
 0,08 Nm with gearing mechanism???
 
+![Powertrain image](images/powertrain_images/Motor_rs_online.jpg)
+
 Characteristic values:
 + voltage: 24 volt (dc)
 + current (norm.): 10 ampere
@@ -17,8 +19,6 @@ Characteristic values:
 
 ## Planetary gear
   For the gear reduction of the powertrain a planetary gear (i=10:1) is used to lower the speed and reduce the shear strength of the synthetic material simultaneously. An experiment proofed that the shear strength of the two synthetic materials ABS and PLA sinks at a lower speed and therefore less cutting force for the shredding process of the synthetic material is required.
-
-![Powertrain image](images/powertrain_images/Schneidmuehle_prinzip_quelle.jpg)
 
 
 ## Motor controller
@@ -44,6 +44,6 @@ Maxon Motor AG´s  ESCON 70/10 is used as engine controller. This controller ena
   For a better understanding oft the electric circuit two views can be used.
 Whereas the first view shows the circuit oft the electronics, the second diagram supports the visual components for the motor controller.
 
-![Electric circuit 1](images/powertrain_images/Heizmanschette.jpg)
+![Electric circuit 1](images/powertrain_images/Schaltplan.png)
 
-![Electric circuit 2](images/powertrain_images/Heizmanschette.jpg)
+![Electric circuit 2](images/powertrain_images/Schaltplan_neu.jpg)
