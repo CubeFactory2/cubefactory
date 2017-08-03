@@ -13,7 +13,7 @@
 
 + the [powertrain](#Power) module can be attached to either the shredder or the extruder with the purpose of saving weight and costs
 
-+ Special requirements for the recycler to be used in the cubefactory 2:
++ special requirements for the recycler to be used in the cubefactory 2:
 	+ to be compact (small package)
 	+ to be lightweight
 	+ low power consuption 
@@ -41,9 +41,9 @@ The Shredder aims to mechanically shred the input material into small, similar s
 
 
 ### Realization
-+ picture shredder __TODO__ (erstellen aus STEP/SLDPRT)
-+ the rotor is realized by a used (and damaged) hob cutter  (recycling!) 
-+ picture hob cutter __TODO__ (aus masterarbeit)
++ ![shredder](images/shredder.png)
++ the rotor is realized by a used (and damaged) milling cutter  (recycling!) 
++ picture milling cutter __TODO__ (aus masterarbeit)
 + the other parts are special components that have been manufactured for the WeCycler
 + To adapt to different materials, the speed (rpm) of the rotor is adjustable. Furthermore static blades can be moved to to change the distance between static and dynamic blades.
 + The output pellet size is determined by selection of a changeable filter (perforated plate)
@@ -76,10 +76,11 @@ Sieht so aus: (__TODO__ Bildquelle, Beschriftung der Einzelteile))![Extrudergrup
 
 + more detailed information on the single parts of the realized extruder unit [here](Extruder_Info.md)
  
-### Powertrain <a name="Power"></a>
+## Powertrain <a name="Power"></a>
 + For more information on the powertrain unit see [here](Powertrain_Info.md).
-+ The powertrain can be attached in 2 different positions: either it drives the the shredder or the extruder.
-+ __TODO__ Bild mit zwei Montagevarianten einfügen
++ The powertrain can be attached in 2 different positions: either it drives the the shredder (pink) or the extruder (green). This is due to the need of saving money, space and weight.
+
++ ![positions](images/powertrain_positions.jpg)
 ### Dieses Verzeichnis
 +  explodes views [here](CAD/exploded_views)
 +  BOM [here](BOM)
