@@ -70,6 +70,10 @@ The following table provides an overview of the most important parameters.
 
 ### Equipment
 
+
+
+
+
 ####  Charge controller and MPPT
 
 The MPPT charge controller fulfills several important functions, which are briefly explained below. On the one hand, it ensures that the battery (12.8V charging voltage) can be charged via the photovoltaic system (14V nominal voltage). Generally speaking, it is possible with the charge controller to charge a battery with a lower nominal voltage via a photovoltaic system with a higher nominal voltage. 
@@ -108,17 +112,19 @@ Noch eine schöne Tabelle ...
 
 |Menge | Bezeichnung | E Preis in Euro| G Preis in Euro|
 |:----| :----  | -----: |  ------:|
-| 3 | Solargenerator | 260 | 780 |
+| 3 | Solargenerator | 780 | 2340 |
 | 1 | Lithiumbatterie | 720 | 720 |
 | 1 | DC/DC-Wandler | 80 | 80 |  
 | 1 | MPPT/ Laderegler | 170 | 170 |
 | 1 | MPPT-control | 72 | 72 |
-| 1 | Netzladegerät | 120 (??) | 120 (??) |
+| 1 | Netzladegerät | 120 | 120 |
 | 1 | Verbindungskabel MPPT | 13.50 | 13.50 | 
 | 1 | 8m 6mm² Profi-Verbindungskabel | 33.53 | 33.53 |
 | 2 | MC4 Abzweigbuchsen | 8.40 | 16.80 | 
-|4 | 1m 6mm² MC-4-Verbindungskabel | 9,01 | 36.04 | 
-|| **Summe** |  |  **2041.87**|
+|4 | 1m 6mm² MC-4-Verbindungskabel | 9.01 | 36.04 |
+|1 | Planung und Beschaffung | 828.17 | 828.17 | 
+|| **Summe** |  |  **4430**|
+
 
 ---
 
