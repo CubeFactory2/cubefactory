@@ -52,7 +52,7 @@ The following table provides an overview of the most important parameters.
 
 | Parameter | Value |Unit|
 | :----  | :------ |:------:|
-| **photovoltaic generator** |
+| **Photovoltaic generator** |
 | Number of modules | 3 |-|
 | Segments per module | 4 | - |
 | Cell type | Si-mono | - |
@@ -108,23 +108,23 @@ In order to be able to charge the battery by alternating current via the mains, 
 
 ### Cost overview
 
-Noch eine schöne Tabelle ...
+The following table provides an overview of the cost of the energy supply system.
 
-|Menge | Bezeichnung | E Preis in Euro| G Preis in Euro|
+| Quantity | Designation | Single price in €| Total price in €|
 |:----| :----  | -----: |  ------:|
-| 3 | Solargenerator | 780 | 2340 |
-| 1 | Lithiumbatterie | 720 | 720 |
-| 1 | DC/DC-Wandler | 80 | 80 |  
-| 1 | MPPT/ Laderegler | 170 | 170 |
-| 1 | MPPT-control | 72 | 72 |
-| 1 | Netzladegerät | 120 | 120 |
-| 1 | Verbindungskabel MPPT | 13.50 | 13.50 | 
-| 1 | 8m 6mm² Profi-Verbindungskabel | 33.53 | 33.53 |
-| 2 | MC4 Abzweigbuchsen | 8.40 | 16.80 | 
-|4 | 1m 6mm² MC-4-Verbindungskabel | 9.01 | 36.04 |
-|1 | Planung und Beschaffung | 828.17 | 828.17 | 
+| 3 | Photovoltaic generator | 780 | 2340 |
+| 1 | Lithium battery | 720 | 720 |
+| 1 | DC/DC converter | 80 | 80 |  
+| 1 | MPPT/ charge controller | 170 | 170 |
+| 1 | AC charger | 120 | 120 |
+| 1 | Connection cable MPPT | 13.50 | 13.50 | 
+| 1 | 8m 6mm² Solar connecting cable | 33.53 | 33.53 |
+| 2 | MC4 Junction box | 8.40 | 16.80 | 
+|4 | 1m 6mm² MC-4-connecting cable | 9.01 | 36.04 |
+|1 | Planning and procurement | 828.17 | 828.17 | 
 || **Summe** |  |  **4430**|
 
+The additional costs for planning and procurement are the result of the fact that the solar module is a custom-made product.
 
 ---
 
