@@ -118,10 +118,10 @@ The following table provides an overview of the cost of the energy supply system
 | 1 | MPPT/ charge controller | 170 | 170 |
 | 1 | AC charger | 120 | 120 |
 | 1 | Connection cable MPPT | 13.50 | 13.50 | 
-| 1 | 8m 6mm² Solar connecting cable | 33.53 | 33.53 |
+| 1 | 8m 6mm² Solar connecting cable | 33.50 | 33.50 |
 | 2 | MC4 Junction box | 8.40 | 16.80 | 
-|4 | 1m 6mm² MC-4-connecting cable | 9.01 | 36.04 |
-|1 | Planning and procurement | 828.17 | 828.17 | 
+|4 | 1m 6mm² MC-4-connecting cable | 9 | 36 |
+|1 | Planning and procurement | 900.20 | 900.20 | 
 || **Summe** |  |  **4430**|
 
 The additional costs for planning and procurement are the result of the fact that the solar module is a custom-made product.
