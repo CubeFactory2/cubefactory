@@ -1,7 +1,4 @@
 
-
-### <span style="color: red"> work in progress... </span>
-
 # Case
 
 ![Case|1](https://image.ibb.co/jKBLKa/GCSM_Pr_si_08.jpg)
