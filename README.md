@@ -4,8 +4,8 @@ The CubeFactory 2 is an autonomous and portable mini factory with own energy and
 
 Key figures:
 * Weight:
-* Dimensions:
-* Autonomy: 
+* Dimensions: 801 x 399 x 522 [mm]
+* Autonomy: 8 hours of printing without power supply
 
 
 In this repository, you will find the complete technical documentation produced in the development of the CubeFactory 2.
