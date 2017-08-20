@@ -122,7 +122,7 @@ The following table provides an overview of the cost of the energy supply system
 | 2 | MC4 Junction box | 8.40 | 16.80 | 
 |4 | 1m 6mm² MC-4-connecting cable | 9 | 36 |
 |1 | Planning and procurement | 900.20 | 900.20 | 
-|| **Summe** |  |  **4430**|
+|| **Sum** |  |  **4430**|
 
 The additional costs for planning and procurement are the result of the fact that the solar module is a custom-made product.
 
