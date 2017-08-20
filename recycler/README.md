@@ -37,10 +37,10 @@ The Shredder aims to mechanically shred the input material into small, similar s
 	
 + The selected __principle__ is a cutting mill with a stator and a rotor both equipped with static/ rotating blades 
 + The shredder should be __adaptable__ to process different materials and deliver variable pellet sizes
-+ ![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)
+![Schneidmühle Prinzipskizze](images/Schneidmuehle_prinzip_quelle.jpg)
 
 ### Realization
-+ ![shredder](images/shredder2.png)
+![shredder](images/shredder2.png)
 + The rotor is realized by a used (and damaged) milling cutter  (recycling!) 
 + The other parts are special components that have been manufactured for the WeCycler
 + To adapt to different materials, the speed (rpm) of the rotor is adjustable. Furthermore static blades can be moved to to change the distance between static and dynamic blades.
@@ -61,7 +61,7 @@ The extruder produces filament from pellets using pressure and heat.
 	4. Finally the meltet material is pressed trough a nozzle, forming a string of filament
 	 
 + The extruder should be __adaptable__ to process different materials and pellet sizes. Also the diameter of the filament should be variable.
-+  
+
 (__TODO__ Bildquelle))![Extruder Prinzipskizze](images/Extruderschema2.jpg)
 
 ### Realization 
@@ -73,13 +73,12 @@ The extruder produces filament from pellets using pressure and heat.
 + For more information on the powertrain unit see [here](Powertrain_Info.md).
 + The powertrain can be attached in 2 different positions: either it drives the the shredder (pink) or the extruder (green). This is due to the need of saving money, space and weight.
 
-+ ![positions](images/powertrain_positions.jpg)
+![positions](images/powertrain_positions.jpg)
 ### This Repository
 +  Exploded views [here](CAD/exploded_views)
 +  BOM [here](BOM)
-+  [CAD files](CAD)
++  CAD files [here](CAD)
 
-### Links
-https://www.3dhubs.com/talk/thread/which-shredding-and-extruding-machines-are-available-part-3
-
-https://www.3dhubs.com/talk/thread/how-does-local-recycling-work-part-2
+### More Information
++ https://www.3dhubs.com/talk/thread/which-shredding-and-extruding-machines-are-available-part-3
++ https://www.3dhubs.com/talk/thread/how-does-local-recycling-work-part-2
