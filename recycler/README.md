@@ -76,7 +76,7 @@ The extruder produces filament from pellets using pressure and heat.
 ![positions](images/powertrain_positions.jpg)
 ### This Repository
 +  Exploded views [here](CAD/exploded_views)
-+  BOM [here](BOM)
++  Bill of Materials [here](BOM_WeCycler.ods)
 +  CAD files [here](CAD)
 
 ### More Information
