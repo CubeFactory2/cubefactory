@@ -4,7 +4,7 @@ The CubeFactory 2 is an autonomous and portable mini factory with own energy and
 
 Key figures:
 * Weight:
-* Dimensions: 801 x 399 x 522 [mm]
+* Dimensions: 801 x 399 x 522 mm
 * Autonomy: 8 hours of printing without power supply
 
 
@@ -35,17 +35,30 @@ In general, the CubeFactory 2 has the following purposes:
 ## Components
 
 The CubeFactory 2 contains all necessary infrastructure for production. It consists of the following components:
+* 3D FDM printer
 * Case
-* Recycler, consisting of PET Shredder and Extruder
-* Foldable solar panels
-* Accumulator
-* 3D FDM Printer
+* Power supply, consisting of foldable solar panels and accumulator
+* Recycler, consisting of PET shredder and extruder
 
 ![bild cf2 detail](https://user-images.githubusercontent.com/28983580/27388276-5469657a-569b-11e7-8936-568ee5e50a62.png)
 
+### Cost overview
+
+| Component | Cost in € | Details |
+|:----| ----: | :---- |
+| 3D-printer | 614 | [printer readme](3d_printer) |
+| Case | 250 | [case readme](case) |
+| Power supply | 4430<sup>1</sup> | [power supply readme](power_supply) |
+| Recycler | 1200<sup>2</sup> | [recycler BOM](recycler/BOM_WeCycler.ods) |
+| **Sum** | **6494** ||
+
+**Notes on costs:**  
+1: The cost for the power supply is that high because its parts were custom made to fit into the case. Alternative solutions for the power supply such as a plug could significantly reduce the cost to a few hundred Euros.  
+2: The prices for the parts of the recycler have not been completely documented yet. Therefore, the above cost for the recycler is estimated.
+
 ## Contribute
 
-Feel free to build and develop futher the CubeFactory 2. Any improvements of the work documented here are welcome.
+Feel free to build and futher develop the CubeFactory 2. Any improvements of the work documented here are welcome.
 There is a high flexibility in terms of selecting the particular components for the CubeFactory 2. For example, the power could alternatively be sourced from a car battery or generated through wind, water or nuclear fusion. While the 3D-printer is an independent open source project, the Recycler is an own development for the use in the CubeFactory and offers a lot of room for improvement.  
 
 ## License
