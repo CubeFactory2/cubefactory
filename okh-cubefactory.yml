@@ -1,5 +1,10 @@
 %Open know-how manifest 0.1
 ---
+
+# This is a manifest after Open Know How Standard v1 formated in YAML markup language
+# more info:  https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/src/branch/master/1
+
+# Manifest metadata
 date-created: 2019-10-05                      # YYYY-MM-DD
 
 manifest-author:
